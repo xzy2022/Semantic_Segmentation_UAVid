@@ -1,4 +1,4 @@
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/maliksyria/Semantic_Segmentation_UAVid)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/xzy2022/Semantic_Segmentation_UAVid)
 
 # Semantic_Segmentation_UAVid
 
