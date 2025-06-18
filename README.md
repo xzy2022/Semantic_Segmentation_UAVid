@@ -1,3 +1,5 @@
+https://github.com/maliksyria/Semantic_Segmentation_UAVid
+
 # Semantic_Segmentation_UAVid
 
 This project contains a full pipeline of training and inferring of UAVid dataset using three different models (SegFormer,UnetFormer,Feature Pyramid) models for image segmentation using Pytorch-Lightning. \
